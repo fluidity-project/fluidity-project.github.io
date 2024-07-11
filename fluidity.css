@@ -2,7 +2,7 @@ body, td, p, h1, h2, h3, h4 { font: 11pt catriel, helvetica, arial, sans-serif; 
 
 body { background-image:url('background.png'); text-align: center; margin: 1em; }
 
-div.nav { background-color: #000000; color: #CCCCCC; font-size:14pt; margin: 0em 0em }
+div.nav { background-color: #1175E6; color: #CCCCCC; font-size:14pt; margin: 0em 0em }
 div.main { margin: 3em 1em; }
 
 h1 { text-align: left; font-weight: bolder; font-size: 150%; color: #0000A0; text-decoration: none }
